@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9bb0a00-116c-4c7d-bec8-65b62f88c4d4" name="Default Changelist" comment="Database">
+      <change afterPath="$PROJECT_DIR$/../HTML EXAM FORMS/bindparam.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML EXAM FORMS/fetch_from_database.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML EXAM FORMS/html-validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML EXAM FORMS/phpgetBasic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML EXAM FORMS/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML EXAM FORMS/uploadfiletodatabaseusingphp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/CSE5335SPRING2019LEANEVENTO.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/CSE5335SPRING2019LEANEVENTO.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/Chapter01-IntroductionToWebDevelopment.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/Chapter01-IntroductionToWebDevelopment.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/agent-login-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/agent-login-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/agent.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/agent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/business-user-login-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/business-user-login-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/business.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/business.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/css/leanevent.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/css/leanevent.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/individual-login-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/individual-login-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/individual-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/individual-register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/individual-user-homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/individual-user-homepage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/individual-user-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/individual-user-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-about-us-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-about-us-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-buy-from-us-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-buy-from-us-cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-buy-from-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-buy-from-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-home-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-home-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-login-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-login-page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-register-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fernandes_LEANEVENT/lean-register-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agent-register.php" beforeDir="false" afterPath="$PROJECT_DIR$/agent-register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-register.php" beforeDir="false" afterPath="$PROJECT_DIR$/business-register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insert_register.php" beforeDir="false" afterPath="$PROJECT_DIR$/insert_register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/connect-database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/connect-database.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="connect-database.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/backend/connect-database.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.connect-database.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9bb0a00-116c-4c7d-bec8-65b62f88c4d4" name="Default Changelist" comment="" />
+      <created>1552164311311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552164311311</updated>
+      <workItem from="1552164314567" duration="1284000" />
+      <workItem from="1552174473046" duration="599000" />
+      <workItem from="1552318231305" duration="593000" />
+      <workItem from="1552352540052" duration="599000" />
+      <workItem from="1553549006757" duration="26000" />
+      <workItem from="1553549056164" duration="1000" />
+      <workItem from="1553638214964" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3106000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Database" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/connect-database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
